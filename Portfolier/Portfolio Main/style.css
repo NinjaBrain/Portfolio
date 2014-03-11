@@ -1,0 +1,40 @@
+body {
+	background-color: #d2dfff
+}
+
+.headerBox	{
+	background-color: #4562a6;
+	width: auto;
+	height: 110px;
+}
+	
+.navBox	{
+	background-color: #a7aec0;
+	width: auto;
+	height: 60px;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 1px 2px 2px #444;
+	
+	text-align: center;
+}
+
+
+.navBox a {
+	
+	
+	margin-right: 70px; 
+	margin-left: 50px;
+	display: inline-block;
+	height: 50%;
+	text-align: center;
+	
+	
+	border: 1px solid #000000;
+}
+
+.contentbox {
+	background-color: White;
+	width: 800px;
+	height: 500px;
+}
